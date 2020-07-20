@@ -28,7 +28,7 @@ description: How to guide to print with a network printer
 
 ### 7. Open the PushPrinter for Windows program application
 
-### 8. Go to the 'settings' cog and select the default or Yoom provider profile from the dropdown list.
+### 8. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
@@ -53,9 +53,9 @@ For network printer: Name the printer. Add API printer \(found in store printer 
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of Yoom.
+**Printer name** - This is the name that the printer will show inside of CloudWaitress.
 
-**API Key** - This needs to be copied from the printer settings inside of Yoom.
+**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
