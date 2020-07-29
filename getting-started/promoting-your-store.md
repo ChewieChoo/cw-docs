@@ -24,7 +24,9 @@ Initially, your customers will not be aware of your new online ordering system. 
 
 ## Paid Advertising
 
-You can consider paying for Facebook or Google ads. Both of these are avenues to generate new customers. We highly recommend utilizing Facebook advertising as it is dirt cheap and easy to target local consumers with.
+You can consider paying for Facebook or Google ads. Both of these are avenues to generate new customers. We highly recommend utilizing Facebook advertising as it is dirt cheap and easy to target local consumers with. 
+
+Speak with one of our specialist if you require assistance with your paid advertising strategy
 
 ## Create A Google Places Listing
 
