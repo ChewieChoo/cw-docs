@@ -2,7 +2,7 @@
 
 Terms of Service
 
-By using the gormanancdcoyoom.com.au web site \("Service"\), or any services of Yoom, you are agreeing to be bound by the following terms and conditions \("Terms of Service"\).
+By using the yoom.com.au web site \("Service"\), or any services of Yoom, you are agreeing to be bound by the following terms and conditions \("Terms of Service"\).
 
 Account Terms
 
