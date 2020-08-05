@@ -24,4 +24,5 @@
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
+* [Facebook Terms and Conditions](facebook-terms-and-conditions.md)
 
